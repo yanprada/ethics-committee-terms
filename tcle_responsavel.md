@@ -2,6 +2,8 @@
 
 <p align="center">
 	<b>Responsável pelo Menor</b> <br> <hr>
+</p>
+<p align="center">	
 	<b>Plataforma de Aprendizagem baseada em Casos</b> <br>
 	<b>Responsável: André Santanchè</b> <br>
 	<b>Número do CAAE:</b>(inserir após aprovação pelo CEP) <br>
@@ -12,7 +14,7 @@ Seu filho(a) ou menor pelo(a) qual você é responsável está sendo convidado a
 
  Por favor, leia com atenção e calma, aproveitando para esclarecer suas dúvidas. Se houver perguntas antes ou mesmo depois de aceitá-lo, você poderá esclarecê-las com o pesquisador. Se preferir, pode baixar o termo em seu computador levar este Termo para casa e enviá-lo para consultar seus familiares ou outras pessoas a fim de consultá-los antes de decidir participar. Não haverá nenhum tipo de penalização ou prejuízo se você não aceitar participar ou retirar sua autorização em qualquer momento. Cabe ressaltar que, caso aceite participar, é importante fazer o download guardar uma cópia deste Termo de Consentimento Livre e Esclarecido (TCLE) e guardar uma cópia em seus arquivos.
 
-	Doravante chamaremos a criança, adolescente ou jovem do qual você é responsável de participante.
+Doravante chamaremos a criança, adolescente ou jovem do qual você é responsável de participante.
 
 ## Justificativa e objetivos:
 
