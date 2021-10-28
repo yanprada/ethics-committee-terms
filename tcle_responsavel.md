@@ -76,16 +76,14 @@ O papel do CEP é avaliar e acompanhar os aspectos éticos de todas as pesquisas
 
 Após ter recebido esclarecimentos sobre a natureza da pesquisa, seus objetivos, métodos, benefícios previstos, potenciais riscos e o incômodo que esta possa acarretar, aceito participar:
 
-<form>
   <label for="fname">Nome do (a) participante da pesquisa:</label><br>
   <input type="text" id="fname" name="fname"><br>
   <label for="fname">Data(dd/mm/aaaa)</label><br>
   <input type="text" id="fname" name="fname"><br>
   <input type="radio" id="agree" name="fav_language" value="agree">
-  <label for="agree">Concordo em participar da pesquisa</label><br>
-  <input type="radio" id="desagree" name="fav_language" value="desagree">
-  <label for="desagree">Não desejo participar da pesquisa</label><br>
-</form>
+- [ ] Concordo em participar da pesquisa
+- [ ] Não desejo participar da pesquisa
+
 
 ## Download do TCLE
 
@@ -93,7 +91,7 @@ Para garantir a segurança do participante menor, verificamos a identidade do re
 
 
 
-Nome do responsável:<br>
+ Nome do responsável:<br>
 <input type="text" id="fname" name="fname"><br>
 E-mail do responsável:<br>
 <input type="text" id="fname" name="fname"><br>
