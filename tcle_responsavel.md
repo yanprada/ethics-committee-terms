@@ -93,6 +93,9 @@ Para garantir a segurança do participante menor, verificamos a identidade do re
 
 
 
+Nome do responsável:<br>
+<input type="text" id="fname" name="fname"><br>
+E-mail do responsável:<br>
 <input type="text" id="fname" name="fname"><br>
 
 
