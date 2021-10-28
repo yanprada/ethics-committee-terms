@@ -14,11 +14,11 @@ Seu filho(a) ou menor pelo(a) qual você é responsável está sendo convidado a
 
 Doravante chamaremos a criança, adolescente ou jovem do qual você é responsável de participante.
 
-## Justificativa e objetivos:
+## Justificativa e objetivos
 
 Este projeto envolve um ambiente na Web para treinar pessoas na resolução de desafios e construção de simulações. Alguns desafios são apresentados na forma de casos que você é convidado a resolver. Queremos testar se ao resolver esses casos você irá adquirir habilidades na resolução de problemas. Também queremos verificar se ao construir simulações você aprenderá algo com elas ou sobre elas.
 
-## Procedimentos:
+## Procedimentos
 
 Participando do estudo o participante está sendo convidado a: resolver um conjunto de desafios que lhe serão apresentados no ambiente. Coletaremos dados sobre como o participante se desempenha no desafio para verificar a efetividade da plataforma na aprendizagem e na capacidade de criação de cenários.
 
@@ -26,27 +26,27 @@ Os dados coletados serão armazenados de forma anônima. Em qualquer tempo você
 
 Por ser um ambiente Web, o participante sempre pode utilizá-lo onde estiver, sem a necessidade de deslocamento. Os dados são armazenados em nosso servidor de forma segura. Os dados serão armazenados por tempo indeterminado ou até que você ou o participante solicite a sua exclusão. A exclusão pode ser solicitada diretamente no ambiente.
 
-## Desconfortos e riscos:
+## Desconfortos e riscos
 
 Não há riscos previsíveis para esta pesquisa. Todos os equipamentos utilizados neste experimento são  seguros e, nas condições de uso previstas, não causam nenhum tipo de dano  à saúde. Para evitar períodos longos sentados e em frente ao computador, cada sessão é projetada para durar entre 30 a 40 minutos, podendo excepcionalmente durar até 1 hora. Em qualquer momento você poderá sinalizar algum desconforto e o experimento será interrompido imediatamente.
 
-## Benefícios:
+## Benefícios
 
 Por ser um ambiente que visa a aprendizagem, a participação na pesquisa pode trazer novos conhecimentos e habilidades na resolução de problemas. O participante também contribuirá na nossa pesquisa e desenvolvimento do ambiente para a aprendizagem baseada na resolução de problemas. Esse ambiente será usado para o aprimoramento na formação principalmente de crianças, adolescentes e jovens. O ambiente será de acesso livre e gratuito para a comunidade.
 
-## Acompanhamento e assistência:
+## Acompanhamento e assistência
 
 O participante tem o direito à assistência integral e gratuita devido a danos diretos e indiretos, imediatos e tardios, pelo tempo que for necessário. O participante também tem direito a suporte, por parte da equipe que está realizando esta pesquisa, no uso do ambiente. Você e o participante têm acesso através do próprio ambiente a todos os dados que são coletados sobre ele, bem como ao seu desempenho auferido pelo ambiente. Você e o participante também terão direito a acesso a todos os resultados decorrentes desta pesquisa.
 
 Não são permitidas estratégias para burlar ou modificar o funcionamento normal do sistema. Se forem detectadas estratégias desse tipo, os que estiverem envolvidos serão desligados do ambiente e descontinuados do estudo.
 
-## Sigilo e privacidade:
+## Sigilo e privacidade
 
 O participante tem a garantia de que sua identidade será mantida em sigilo e nenhuma informação será dada a outras pessoas que não façam parte da equipe de pesquisadores. Na divulgação dos resultados desse estudo, seu nome não será citado.
 
 O ambiente permite que o participante compartilhe, ao seu critério, conteúdo que você produza no ambiente, quando ele o estiver usando para criar conteúdo. Ele poderá, a qualquer tempo, descontinuar esse compartilhamento.
 
-## Ressarcimento e Indenização:
+## Ressarcimento e Indenização
 
 A participação é voluntária e não serão ressarcidas despesas de transporte, alimentação e de nenhum outro tipo, pois a coleta de dados da pesquisa se dará em locais públicos com participantes voluntários que não se deslocaram para o local especificamente para a pesquisa mas que já se encontram presentes no local de coleta.
 
@@ -56,7 +56,7 @@ Os participantes serão assistidos imediatamente em caso de desconforto e, haven
 
 Nos termos da resolução N° 466 do Conselho Nacional da Saúde (CNS), de 12 de dezembro de 2012, item V.7, os participantes da pesquisa que vierem a sofrer qualquer tipo de dano resultante de sua participação na pesquisa, previsto ou não no Termo de Consentimento Livre e Esclarecido, têm direito à indenização, por parte do pesquisador, do patrocinador e das instituições envolvidas nas diferentes fases da pesquisa.
 
-## Contato:
+## Contato
 
 Em caso de dúvidas sobre a pesquisa, você poderá entrar em contato com o pesquisador André Santanchè
 
@@ -72,7 +72,7 @@ Em caso de denúncias ou reclamações sobre sua participação e sobre questõe
 
 O papel do CEP é avaliar e acompanhar os aspectos éticos de todas as pesquisas envolvendo seres humanos. A Comissão Nacional de Ética em Pesquisa (CONEP), tem por objetivo desenvolver a regulamentação sobre proteção dos seres humanos envolvidos nas pesquisas. Desempenha um papel coordenador da rede de Comitês de Ética em Pesquisa (CEPs) das instituições, além de assumir a função de órgão consultor na área de ética em pesquisas
 
-## Consentimento livre e esclarecido:
+## Consentimento livre e esclarecido
 
 Após ter recebido esclarecimentos sobre a natureza da pesquisa, seus objetivos, métodos, benefícios previstos, potenciais riscos e o incômodo que esta possa acarretar, aceito participar:
 
@@ -81,11 +81,11 @@ Após ter recebido esclarecimentos sobre a natureza da pesquisa, seus objetivos,
  <label for="fname">Data(dd/mm/aaaa)</label><br>
  <input type="text" id="fname" name="fname"><br>
 
- <input type="radio" id="agree" name="fav_language" value="agree"> Concordo em participar da pesquisa
- <input type="radio" id="agree" name="fav_language" value="agree"> Não desejo participar da pesquisa
+ <input type="radio" id="agree" name="fav_language" value="agree"> Concordo em participar da pesquisa <br>
+ <input type="radio" id="agree" name="fav_language" value="agree"> Não desejo participar da pesquisa <br>
 
 
-## Download do TCLE
+[Download do TCLE](www.google.com)
 
 Para garantir a segurança do participante menor, verificamos a identidade do responsável. Se você estiver participando da pesquisa remotamente, pedimos que nos informe seu nome e um e-mail seu. Entraremos em contato apenas solicitando que confirme esta aceitação do TCLE. Uma das condições para que o participante seja autorizado a participar será a sua confirmação em resposta ao nosso e-mail.
 
@@ -97,8 +97,7 @@ E-mail do responsável:<br>
 <input type="text" id="fname" name="fname"><br>
 
 
-
-**Responsabilidade do Pesquisador:**
+## Responsabilidade do Pesquisador
 
 Asseguro ter cumprido as exigências da resolução 466/2012 CNS/MS e complementares na elaboração do protocolo e na obtenção deste Termo de Consentimento Livre e Esclarecido. Asseguro, também, ter explicado e fornecido uma via deste documento ao participante da pesquisa. Informo que o estudo foi aprovado pelo CEP perante o qual o projeto foi apresentado e pela CONEP, quando pertinente. Comprometo-me a utilizar o material e os dados obtidos nesta pesquisa exclusivamente para as finalidades previstas neste documento ou conforme o consentimento dado pelo participante da pesquisa.
 
