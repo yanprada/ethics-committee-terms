@@ -1,6 +1,10 @@
 # TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
 
-**Responsável pelo Menor**
+<p align="center">
+  **Responsável pelo Menor**
+</p>
+
+
 
 **Plataforma de Aprendizagem baseada em Casos**
 
