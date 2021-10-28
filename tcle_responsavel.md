@@ -28,7 +28,10 @@ Por ser um ambiente Web, o participante sempre pode utilizá-lo onde estiver, se
 
 ## Desconfortos e riscos:
 
-A pesquisa não apresenta riscos previsíveis.
+Não há riscos previsíveis para esta pesquisa. Todos os equipamentos utilizados neste experimento são  seguros e, nas condições de uso previstas, não causam nenhum tipo de dano  à saúde. Você estara sentados durante o uso do ambiente em frente a um computador onde é executada a plataforma Harena. Para evitar períodos longos sentados e em frente ao computador, cada sessão é projetada para durar entre 30 a 40 minutos, podendo excepcionalmente durar até 1 hora. Em qualquer momento você poderá sinalizar algum desconforto e o experimento será interrompido imediatamente.
+
+Em suma, a execução da pesquisa foi projetada de modo que todos os possíveis desconfortos previsíveis advindos da realização desta  fossem evitados ou minimizados.
+
 
 ## Benefícios:
 
