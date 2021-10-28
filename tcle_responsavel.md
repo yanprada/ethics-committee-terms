@@ -2,13 +2,11 @@
 
 <p align="center">
 	<b>Responsável pelo Menor</b> <br> <hr>
-</p>
-<p align="center">	
 	<b>Plataforma de Aprendizagem baseada em Casos</b> <br>
 	<b>Responsável: André Santanchè</b> <br>
 	<b>Número do CAAE:</b>(inserir após aprovação pelo CEP) <br>
 </p>
-
+<br>
 
 Seu filho(a) ou menor pelo(a) qual você é responsável está sendo convidado a participar de uma pesquisa. Este documento, chamado Termo de Consentimento Livre e Esclarecido, visa assegurar seus direitos como participante da pesquisa. A criança preencherá um Termo de Assentimento Livre e Esclarecido e você, como responsável, preencherá este termo. Para preencher há um campo com seu nome e clicará em concordo, indicando que concorda que o menor pelo qual você é responsável participe desta pesquisa. Você deve indicar um e-mail para receber uma cópia deste termo acompanhado de um número de chave. Como a pesquisa é anônima, a plataforma requisitará apenas a chave para dar acesso ao menor ao sistema e não guardará os dados pessoais dele(dela). Caso em qualquer momento você queira que os dados dele(dela) sejam excluídos da plataforma, bastará nos informar o número da chave.
 
