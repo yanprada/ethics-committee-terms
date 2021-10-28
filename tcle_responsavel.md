@@ -1,7 +1,7 @@
 # TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
 
 <p align="center">
-  **Responsável pelo Menor**
+	<bold>Responsável pelo Menor</bold>
 </p>
 
 
