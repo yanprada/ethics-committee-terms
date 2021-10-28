@@ -92,11 +92,14 @@ Após ter recebido esclarecimentos sobre a natureza da pesquisa, seus objetivos,
 Para garantir a segurança do participante menor, verificamos a identidade do responsável. Se você estiver participando da pesquisa remotamente, pedimos que nos informe seu nome e um e-mail seu. Entraremos em contato apenas solicitando que confirme esta aceitação do TCLE. Uma das condições para que o participante seja autorizado a participar será a sua confirmação em resposta ao nosso e-mail.
 
 
-  <label for="fname">Nome do responsável:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-  <label for="fname">E-mail do responsável:</label><br>
-  <input type="text" id="fname" name="fname"><br>
-
+ <label for="fname">Nome do responsável:</label><br>
+ <input type="text" id="fname" name="fname"><br>
+ <label for="fname">E-mail do responsável:</label><br>
+ <input type="text" id="fname" name="fname"><br>
+<div id="name">
+<label for="input-name">Name </label>
+<input type="text" name="name" id="input-name">
+</div>
 
 **Responsabilidade do Pesquisador:**
 
