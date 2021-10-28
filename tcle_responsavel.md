@@ -1,7 +1,7 @@
 # TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
 
 <p align="center">
-	<b>Responsável pelo Menor</b> <br>
+	<b>Responsável pelo Menor</b> <br> <hr>
 	<b>Plataforma de Aprendizagem baseada em Casos</b> <br>
 	<b>Responsável: André Santanchè</b> <br>
 	<b>Número do CAAE:</b>(inserir após aprovação pelo CEP) <br>
@@ -34,19 +34,19 @@ A pesquisa não apresenta riscos previsíveis.
 
 Por ser um ambiente que visa a aprendizagem, a participação na pesquisa pode trazer novos conhecimentos e habilidades na resolução de problemas. O participante também contribuirá na nossa pesquisa e desenvolvimento do ambiente para a aprendizagem baseada na resolução de problemas. Esse ambiente será usado para o aprimoramento na formação principalmente de crianças, adolescentes e jovens. O ambiente será de acesso livre e gratuito para a comunidade.
 
-**Acompanhamento e assistência:
+## Acompanhamento e assistência:
 
 O participante tem o direito à assistência integral e gratuita devido a danos diretos e indiretos, imediatos e tardios, pelo tempo que for necessário. O participante também tem direito a suporte, por parte da equipe que está realizando esta pesquisa, no uso do ambiente. Você e o participante têm acesso através do próprio ambiente a todos os dados que são coletados sobre ele, bem como ao seu desempenho auferido pelo ambiente. Você e o participante também terão direito a acesso a todos os resultados decorrentes desta pesquisa.
 
 Não são permitidas estratégias para burlar ou modificar o funcionamento normal do sistema. Se forem detectadas estratégias desse tipo, os que estiverem envolvidos serão desligados do ambiente e descontinuados do estudo.
 
-**Sigilo e privacidade:
+## Sigilo e privacidade:
 
 O participante tem a garantia de que sua identidade será mantida em sigilo e nenhuma informação será dada a outras pessoas que não façam parte da equipe de pesquisadores. Na divulgação dos resultados desse estudo, seu nome não será citado.
 
 O ambiente permite que o participante compartilhe, ao seu critério, conteúdo que você produza no ambiente, quando ele o estiver usando para criar conteúdo. Ele poderá, a qualquer tempo, descontinuar esse compartilhamento.
 
-**Ressarcimento e Indenização:
+## Ressarcimento e Indenização:
 
 A participação é voluntária e não serão ressarcidas despesas de transporte, alimentação e de nenhum outro tipo, pois a coleta de dados da pesquisa se dará em locais públicos com participantes voluntários que não se deslocaram para o local especificamente para a pesquisa mas que já se encontram presentes no local de coleta.
 
@@ -91,12 +91,12 @@ Após ter recebido esclarecimentos sobre a natureza da pesquisa, seus objetivos,
 
 Para garantir a segurança do participante menor, verificamos a identidade do responsável. Se você estiver participando da pesquisa remotamente, pedimos que nos informe seu nome e um e-mail seu. Entraremos em contato apenas solicitando que confirme esta aceitação do TCLE. Uma das condições para que o participante seja autorizado a participar será a sua confirmação em resposta ao nosso e-mail.
 
-<form>
+
   <label for="fname">Nome do responsável:</label><br>
   <input type="text" id="fname" name="fname"><br>
   <label for="fname">E-mail do responsável:</label><br>
   <input type="text" id="fname" name="fname"><br>
-</form>
+
 
 **Responsabilidade do Pesquisador:**
 
