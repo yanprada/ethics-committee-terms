@@ -1,7 +1,7 @@
 # TERMO DE CONSENTIMENTO LIVRE E ESCLARECIDO
 
 <p align="center">
-	<b>Responsável pelo Menor</b> <br> <hr>
+	<b>15 a 17 anos</b> <br> <hr>
 	<b>Plataforma de Aprendizagem baseada em Casos</b> <br>
 	<b>Responsável: André Santanchè</b> <br>
 	<b>Número do CAAE:</b>(inserir após aprovação pelo CEP) <br>
@@ -12,7 +12,7 @@ Você está sendo convidado a participar de uma pesquisa. Este documento, chamad
 
 Você preencherá um  campo com seu nome e clicará em concordo, indicando que concorda participar desta pesquisa. Você deve indicar um e-mail para receber uma cópia deste termo acompanhado de um número de chave. Como a pesquisa é anônima, a plataforma requisitará apenas a chave para lhe dar acesso ao sistema e não guardará seus dados pessoais. Caso em qualquer momento você queira que seus dados sejam excluídos da plataforma, bastará nos informar o número da chave.
 
-Por favor, leia com atenção e calma, aproveitando para esclarecer suas dúvidas. Se houver perguntas antes ou mesmo depois de aceitá-lo, você poderá esclarecê-las com o pesquisador. Se preferir, pode baixar o termo em seu computador levar este Termo para casa e enviá-lo para consultar seus familiares ou outras pessoas a fim de consultá-los antes de decidir participar. Não haverá nenhum tipo de penalização ou prejuízo se você não aceitar participar ou retirar sua autorização em qualquer momento. Cabe ressaltar que, caso aceite participar, é importante fazer o download guardar uma cópia deste Termo de Consentimento Livre e Esclarecido (TCLE) e guardar uma cópia em seus arquivos.
+Por favor, leia com atenção e calma, aproveitando para esclarecer suas dúvidas. Se houver perguntas antes ou mesmo depois de aceitá-lo, você poderá esclarecê-las com o pesquisador. Se preferir, pode baixar o termo em seu computador e enviá-lo para seus familiares ou outras pessoas a fim de consultá-los antes de decidir participar. Não haverá nenhum tipo de penalização ou prejuízo se você não aceitar participar ou retirar sua autorização em qualquer momento. Cabe ressaltar que, caso aceite participar, é importante fazer o download deste Termo de Assentimento Livre e Esclarecido (TALE) e guardar uma cópia em seus arquivos.
 
 Justificativa e objetivos:
 
@@ -91,4 +91,9 @@ Após ter recebido esclarecimentos sobre a natureza da pesquisa, seus objetivos,
 
 Asseguro ter cumprido as exigências da resolução 466/2012 CNS/MS e complementares na elaboração do protocolo e na obtenção deste Termo de Consentimento Livre e Esclarecido. Asseguro, também, ter explicado e fornecido uma via deste documento ao participante da pesquisa. Informo que o estudo foi aprovado pelo CEP perante o qual o projeto foi apresentado e pela CONEP, quando pertinente. Comprometo-me a utilizar o material e os dados obtidos nesta pesquisa exclusivamente para as finalidades previstas neste documento ou conforme o consentimento dado pelo participante da pesquisa.
 
-<button type="button" onclick="alert('Hello world!')">Enviar</button>
+
+
+<div style="text-align:center;">
+<a href="www.google.com">Download do Termo de Assentimento Livre e Esclarecido (TALE)</a><br><br>
+<button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
+</div>
