@@ -49,7 +49,7 @@ Vamos explicar como é a participação:
 
 ENTENDI QUE POSSO DIZER "SIM" E PARTICIPAR, MAS QUE, A QUALQUER MOMENTO, POSSO DIZER “NÃO” E DESISTIR. ENTENDI QUE NINGUÉM FICARÁ BRAVO SE EU DESISTIR. SEMPRE PODEREI TIRAR MINHAS DÚVIDAS COM OS PESQUISADORES E CONVERSAR COM OS MEUS PAIS OU RESPONSÁVEIS.
 
-CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
+CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA.
 
 <div style="text-align:center;">
 <img src='image_0.png' style="width:80px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='image_1.png' style="width:80px;">
@@ -62,8 +62,9 @@ CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
   <input type="text" id="fname" name="fname"><br>
 </form>
 
-[Download do Termo de Consentimento Livre e Esclarecido (TCLE)](www.google.com)
+
 
 <div style="text-align:center;">
+[Download do Termo de Consentimento Livre e Esclarecido (TCLE)](www.google.com) <br><br>
 <button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
 </div>
