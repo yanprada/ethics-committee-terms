@@ -90,6 +90,6 @@ Asseguro ter cumprido as exigências da resolução 466/2012 CNS/MS e complement
 
 
 <div style="text-align:center;">
-<a href="www.google.com">Download do Termo de Assentimento Livre e Esclarecido (TALE)</a><br><br>
+<a href="www.google.com">Download do Termo de Consentimento Livre e Esclarecido (TCLE)</a><br><br>
 <button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
 </div>
