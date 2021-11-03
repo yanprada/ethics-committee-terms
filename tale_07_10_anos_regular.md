@@ -42,7 +42,7 @@ Vamos explicar como é a participação:
 
 * Seus pais ou responsáveis também aceitarão um termo parecido com esteele, e eles serão esclarecidos de tudo o que irá acontecer com você.
 
-* Cabe ressaltar que, caso aceite participar, é importante fazer o download deste Termo de Consentimento Livre e Esclarecido (TCLE) e guardar uma cópia em seus arquivos.
+* Cabe ressaltar que, caso aceite participar, é importante fazer o download do Termo de Consentimento Livre e Esclarecido (TCLE) - ver link no final do termo- e guardar uma cópia em seus arquivos.
 
 
 	
@@ -61,6 +61,9 @@ CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
   <label for="fname">Data(dd/mm/aaaa)</label><br>
   <input type="text" id="fname" name="fname"><br>
 </form>
+
+[Download do Termo de Consentimento Livre e Esclarecido (TCLE)](www.google.com)
+
 <div style="text-align:center;">
 <button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
 </div>
