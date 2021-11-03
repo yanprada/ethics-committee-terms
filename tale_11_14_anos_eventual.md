@@ -74,6 +74,7 @@ Vamos explicar como é a participação:
   <input type="radio" id="desagree" name="fav_language" value="desagree">
   <label for="desagree">Não desejo participar da pesquisa</label><br>
 </form>
+<br>
 
 <div style="text-align:center;">
 <a href="www.google.com">Download do Termo de Assentimento Livre e Esclarecido (TALE)</a><br><br>
