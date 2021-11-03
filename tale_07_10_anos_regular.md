@@ -51,14 +51,16 @@ ENTENDI QUE POSSO DIZER "SIM" E PARTICIPAR, MAS QUE, A QUALQUER MOMENTO, POSSO D
 
 CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
 
+<div style="text-align:center;">
 <img src='image_0.jpeg' style="width:80px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='image_1.jpeg' style="width:80px;">
-
+</div>
 
 <form>
   <label for="fname">Nome do (a) participante da pesquisa:</label><br>
   <input type="text" id="fname" name="fname" style="width:100%;"><br>
   <label for="fname">Data(dd/mm/aaaa)</label><br>
-  <input type="text" id="fname" name="fname" style="width:100%;"><br>
+  <input type="text" id="fname" name="fname"><br>
 </form>
-
-<button type="button" onclick="alert('Hello world!')">Enviar</button>
+<div style="text-align:center;">
+<button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
+</div>
