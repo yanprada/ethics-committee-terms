@@ -51,9 +51,8 @@ ENTENDI QUE POSSO DIZER "SIM" E PARTICIPAR, MAS QUE, A QUALQUER MOMENTO, POSSO D
 
 CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
 
-<img src='image_0.png' style="witdh:80px;">
+<img src='image_0.png' style="width:80px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='image_1.png' style="width:80px;">
 
-![image alt text](image_0.png)		![image alt text](image_1.png)
 
 <form>
   <label for="fname">Nome do (a) participante da pesquisa:</label><br>
