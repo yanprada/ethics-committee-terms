@@ -51,7 +51,7 @@ ENTENDI QUE POSSO DIZER "SIM" E PARTICIPAR, MAS QUE, A QUALQUER MOMENTO, POSSO D
 
 CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
 
-<img src='image_0.png' style="width:80px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='image_1.png' style="width:80px;">
+<img src='image_0.jpeg' style="width:80px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src='image_1.jpeg' style="width:80px;">
 
 
 <form>
