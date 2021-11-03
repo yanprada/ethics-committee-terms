@@ -1,7 +1,7 @@
 # TERMO DE ASSENTIMENTO LIVRE E ESCLARECIDO
 
 <p align="center">
-	<b>Responsável pelo Menor</b> <br> <hr>
+	<b>15 a 17 anos</b> <br> <hr>
 	<b>Plataforma de Aprendizagem baseada em Casos</b> <br>
 	<b>Responsável: André Santanchè</b> <br>
 	<b>Número do CAAE:</b>(inserir após aprovação pelo CEP) <br>
@@ -89,7 +89,7 @@ Após ter recebido esclarecimentos sobre a natureza da pesquisa, seus objetivos,
   <label for="desagree">Não desejo participar da pesquisa</label><br>
 </form>
 
-**Responsabilidade do Pesquisador
+## Responsabilidade do Pesquisador
 
 Asseguro ter cumprido as exigências da resolução 466/2012 CNS/MS e complementares na elaboração do protocolo e na obtenção deste Termo de Consentimento Livre e Esclarecido. Asseguro, também, ter explicado e fornecido uma via deste documento ao participante da pesquisa. Informo que o estudo foi aprovado pelo CEP perante o qual o projeto foi apresentado e pela CONEP, quando pertinente. Comprometo-me a utilizar o material e os dados obtidos nesta pesquisa exclusivamente para as finalidades previstas neste documento ou conforme o consentimento dado pelo participante da pesquisa.
 
