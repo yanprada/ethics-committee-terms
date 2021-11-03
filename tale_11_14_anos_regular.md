@@ -60,7 +60,7 @@ Vamos explicar como é a participação:
 
 * Seus pais ou responsáveis também aceitarão um termo parecido com esteele, e eles serão esclarecidos de tudo o que irá acontecer com você.
 
-* Cabe ressaltar que, caso aceite participar, é importante fazer o download deste Termo de Consentimento Livre e Esclarecido (TCLE) e guardar uma cópia em seus arquivos.
+* Cabe ressaltar que, caso aceite participar, é importante fazer o download do Termo de Assentimento Livre e Esclarecido (TALE) - ver link no final do termo- e guardar uma cópia em seus arquivos.
 
 
 	
@@ -74,5 +74,9 @@ Vamos explicar como é a participação:
   <input type="radio" id="desagree" name="fav_language" value="desagree">
   <label for="desagree">Não desejo participar da pesquisa</label><br>
 </form>
+<br>
 
-<button type="button" onclick="alert('Hello world!')">Enviar</button>
+<div style="text-align:center;">
+<a href="www.google.com">Download do Termo de Assentimento Livre e Esclarecido (TALE)</a><br><br>
+<button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
+</div>
