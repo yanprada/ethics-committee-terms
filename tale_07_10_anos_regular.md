@@ -56,9 +56,9 @@ CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
 
 <form>
   <label for="fname">Nome do (a) participante da pesquisa:</label><br>
-  <input type="text" id="fname" name="fname"><br>
+  <input type="text" id="fname" name="fname" style="width:100%;"><br>
   <label for="fname">Data(dd/mm/aaaa)</label><br>
-  <input type="text" id="fname" name="fname"><br>
+  <input type="text" id="fname" name="fname" style="width:100%;"><br>
 </form>
 
 <button type="button" onclick="alert('Hello world!')">Enviar</button>
