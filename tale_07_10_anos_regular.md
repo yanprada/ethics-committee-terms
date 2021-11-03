@@ -2,7 +2,7 @@
 
 
 <p align="center">
-	<b>11 a 14 anos</b> <br> <hr>
+	<b>07 a 10 anos</b> <br> <hr>
 	<b>Plataforma de Aprendizagem baseada em Casos</b> <br>
 	<b>Responsável: André Santanchè</b> <br>
 	<b>Número do CAAE:</b>(inserir após aprovação pelo CEP) <br>
