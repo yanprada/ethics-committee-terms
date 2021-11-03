@@ -40,7 +40,7 @@ Vamos explicar como é a participação:
 
 * Seus pais ou responsáveis também aceitarão um termo parecido com esteele, e eles serão esclarecidos de tudo o que irá acontecer com você.
 
-* Cabe ressaltar que, caso aceite participar, é importante fazer o download deste Termo de Consentimento Livre e Esclarecido (TCLE) e guardar uma cópia em seus arquivos.
+* Cabe ressaltar que, caso aceite participar, é importante fazer o download do Termo de Consentimento Livre e Esclarecido (TCLE) - ver link no final do termo- e guardar uma cópia em seus arquivos.
 
 
 	
@@ -49,13 +49,20 @@ ENTENDI QUE POSSO DIZER "SIM" E PARTICIPAR, MAS QUE, A QUALQUER MOMENTO, POSSO D
 
 CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA .
 
-![image alt text](image_0.png)		![image alt text](image_1.png)
+<div style="text-align:center;">
+<a href=""> <img src='image_0.png' style="width:80px;"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href=""><img src='image_1.png' style="width:80px;"></a>
+</div>
 
 <form>
   <label for="fname">Nome do (a) participante da pesquisa:</label><br>
-  <input type="text" id="fname" name="fname"><br>
+  <input type="text" id="fname" name="fname" style="width:100%;"><br>
   <label for="fname">Data(dd/mm/aaaa)</label><br>
   <input type="text" id="fname" name="fname"><br>
 </form>
 
-<button type="button" onclick="alert('Hello world!')">Enviar</button>
+
+
+<div style="text-align:center;">
+<a href="www.google.com">Download do Termo de Consentimento Livre e Esclarecido (TCLE)</a><br><br>
+<button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
+</div>
