@@ -65,6 +65,6 @@ CLIQUE NO ÍCONE ABAIXO QUE INDICA SE VOCÊ QUER PARTICIPAR DA PESQUISA.
 
 
 <div style="text-align:center;">
-<a href="www.google.com">Download do Termo de Consentimento Livre e Esclarecido (TCLE)<\a><br><br>
+<a href="www.google.com">Download do Termo de Consentimento Livre e Esclarecido (TCLE)</a><br><br>
 <button type="button" onclick="alert('Hello world!')" style="font-size:20pt;">Enviar</button>
 </div>
